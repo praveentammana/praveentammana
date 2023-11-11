@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveentammana&label=Profile%20views&color=0e75b6&style=flat" alt="praveentammana" /> </p>
 
-<p align="left"> <a href="https://twitter.com/writer_praveen" target="blank"><img src="https://img.shields.io/twitter/follow/writer_praveen?logo=twitter&style=for-the-badge" alt="Praveentony17" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Praveentony17" target="blank"><img src="https://img.shields.io/twitter/follow/writer_praveen?logo=twitter&style=for-the-badge" alt="Praveentony17" /></a> </p>
 
 - 🌱 I’m currently learning **Deep Learning**
 
@@ -18,9 +18,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/writer_praveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="writer_praveen" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/praveen tammana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praveen tammana" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Praveen Tammana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Praveen Tammana" height="30" width="40" /></a>
 <a href="https://kaggle.com/praveen tammana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="praveen tammana" height="30" width="40" /></a>
-<a href="https://instagram.com/___praveen_______" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___praveen_______" height="30" width="40" /></a>
+<a href="https://instagram.com/___praveen_________" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___praveen_________" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/praveen tammana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="praveen tammana" height="30" width="40" /></a>
 </p>
 
